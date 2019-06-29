@@ -1,0 +1,41 @@
+
+
+ 
+        <hr>
+        <!-- Tables -->
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Name</th>
+                    <th scope="col">Origin</th>
+                </tr>
+            </thead>
+    <tbody>        
+    <tr>
+      <th scope="row">1</th>
+      <td>Method & Madness</td>
+      <td>Midleton</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Sullivans Cove</td>
+      <td>Australia</td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>Basil Hayden Rye</td>
+      <td>UK</td>
+    </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>Yamakazi Mizunara</td>
+      <td>Japan</td>
+    </tr>
+    <tr>
+      <th scope="row">5</th>
+      <td>Roe & Co.</td>
+      <td>Ireland</td>
+    </tr>
+    <tbody>
+    </table>
